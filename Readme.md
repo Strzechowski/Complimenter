@@ -1,4 +1,4 @@
-What does this program do
+What this program does
 
 This program shows compliments to a user taken from a https://complimentr.com/api
 
