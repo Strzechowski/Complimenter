@@ -23,7 +23,7 @@ desktop program fast.
 
 References
 
-Complimentes api:
+Compliments api:
 https://complimentr.com/api
 
 As this was my first interaction with PyQt I based my work on this tutorial:
